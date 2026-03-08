@@ -1,4 +1,4 @@
-# Hi, I'm [Chimdire Mgbajah] 👋
+# Hi, I'm Chimdire Mgbajah 👋
 
 Aspiring software engineer | Currently completing CS50 | Building small Python projects
 
@@ -19,4 +19,4 @@ Python • Git • GitHub • Problem-solving • Debugging • Basic game logic
 
 Feel free to check out my repos or open an issue with feedback!
 
-📧 Reach me: [ccmgbajah@gmail.com]
+📧 Reach me: ccmgbajah@gmail.com
