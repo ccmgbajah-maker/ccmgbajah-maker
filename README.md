@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm [Chimdire Mgbajah] 👋
 
-<!--
-**ccmgbajah-maker/ccmgbajah-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software engineer | Currently completing CS50 | Building small Python projects
 
-Here are some ideas to get you started:
+### About me
+- Learning Python through Harvard's CS50 course
+- Focused on clean and robust code, input validation, loops, scoring logic, and user-friendly CLI games
+- Building a portfolio one project at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current projects
+- [Number Guessing Game](https://github.com/ccmgbajah-maker/number_guessing_game) — CLI game with 10 attempts, robust validation & win/lose handling
+- [Rock Paper Scissors](https://github.com/ccmgbajah-maker/rock_paper_scissors) — First to 5 wins, replayable matches, score tracking
+
+### Skills I'm building
+Python • Git • GitHub • Problem-solving • Debugging • Basic game logic
+
+### Currently working on
+→ Finishing CS50
+
+Feel free to check out my repos or open an issue with feedback!
+
+📧 Reach me: [ccmgbajah@gmail.com]
